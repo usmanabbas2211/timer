@@ -1,0 +1,15 @@
+.black{
+  background-color: black;
+}
+.yellow{
+  background-color: yellow;
+}
+.text-blue{
+  color: blue;
+}
+.main-div{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
